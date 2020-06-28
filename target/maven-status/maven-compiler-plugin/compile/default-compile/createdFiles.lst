@@ -1,0 +1,8 @@
+com\qbthon\repositories\AssocRepository.class
+com\qbthon\model\AssociateDetails.class
+com\qbthon\config\DynamoDBConfig.class
+com\qbthon\QbthonApplication.class
+com\qbthon\model\EventDetails.class
+com\qbthon\repositories\EventRepository.class
+com\qbthon\service\EventService.class
+com\qbthon\controller\EventController.class
